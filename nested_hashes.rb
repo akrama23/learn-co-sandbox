@@ -5,5 +5,4 @@ students: ["Andrew", "Howard", "terrance",
 classes: ["Software Engineering", "Data Science"] # classes(key) value is the array
 
 }#end 
-puts  school[:instructures][1]
-puts school[:students][3]
+puts instructures[0]
